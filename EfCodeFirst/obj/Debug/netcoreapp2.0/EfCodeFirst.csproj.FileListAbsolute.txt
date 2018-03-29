@@ -1,0 +1,11 @@
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\bin\Debug\netcoreapp2.0\EfCodeFirst.deps.json
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\bin\Debug\netcoreapp2.0\EfCodeFirst.runtimeconfig.json
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\bin\Debug\netcoreapp2.0\EfCodeFirst.runtimeconfig.dev.json
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\bin\Debug\netcoreapp2.0\EfCodeFirst.dll
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\bin\Debug\netcoreapp2.0\EfCodeFirst.pdb
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\obj\Debug\netcoreapp2.0\EfCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\obj\Debug\netcoreapp2.0\EfCodeFirst.csproj.CoreCompileInputs.cache
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\obj\Debug\netcoreapp2.0\EfCodeFirst.AssemblyInfoInputs.cache
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\obj\Debug\netcoreapp2.0\EfCodeFirst.AssemblyInfo.cs
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\obj\Debug\netcoreapp2.0\EfCodeFirst.dll
+c:\users\filipek\Source\Repos\EfCodeFirst\EfCodeFirst\obj\Debug\netcoreapp2.0\EfCodeFirst.pdb
